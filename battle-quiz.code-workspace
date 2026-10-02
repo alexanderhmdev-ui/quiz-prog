@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "./battle-quiz-java"
+    },
+    {
+      "path": "./battle-quiz-php"
+    },
+    {
+      "path": "./battle-quiz-python"
+    }
+  ],
+  "settings": {}
+}

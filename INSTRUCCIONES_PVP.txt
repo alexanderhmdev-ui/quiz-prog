@@ -1,0 +1,16 @@
+BATTLE QUIZ - ACTIVAR EMPAREJAMIENTO PVP
+
+1) Copia esta carpeta Battle-Quiz a C:\laragon\www\Battle-Quiz
+2) En Laragon inicia Apache y MySQL.
+3) En HeidiSQL abre ACTUALIZAR_BD_PVP.sql y ejecútalo sobre battle_quiz.
+4) Java:
+   cd C:\laragon\www\Battle-Quiz\battle-quiz-java
+   .\mvnw.cmd spring-boot:run
+5) Python:
+   ejecuta start-python.bat
+6) Web:
+   http://localhost:81/Battle-Quiz/battle-quiz-php/public/
+7) Para probar PvP: abre dos navegadores o un navegador + incógnito, crea dos nicknames y pulsa Buscar partida en ambos.
+
+MySQL configurado en el proyecto:
+Host 127.0.0.1 | Puerto 8000 | Usuario root | Contraseña 1-5
